@@ -53,7 +53,9 @@ Here's a walkthrough of implemented user stories:
     - I tried to add the strikes to the project. I was able to get it to count down from 3 to game over. However, I was unable to make the game continue. I placed the strike variable in the guess function, used a while loop so that the guesses reduce with every wrong guess. 
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-   - 
+   - Are there other languages that will be better suited for the current project?
+   - What level of full-stack development is used in this project and how huge is the gap from this to industry level?
+   - In companies, are the index, script and style all done by one developer or they are done by different developers because of the volume?
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
   - If I had a few more hours, I would add levels to the game. After successfully completing a game, the next level will have more buttons and the pattern will be longer. I would also make three more buttons: Easy, Medium Hard. The regular buttons will be hidden until a difficulty is selected. The higher the difficulty, the lengthier the patterns, the shorter the clue time gets, and more buttons. 
