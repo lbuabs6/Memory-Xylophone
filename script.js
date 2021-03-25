@@ -114,7 +114,6 @@ function winGame(){
 }
 
 function guess(btn){
-  console.log("user guessed: " + btn);
   if(!gamePlaying){
     return;
   }
